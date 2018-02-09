@@ -1,0 +1,23 @@
+{
+  "name": "pom-core-eslint",
+  "version": "1.0.0",
+  "description": "ES Lint config for POM microservices",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/am-modus/pom-core-eslint.git"
+  },
+  "author": "Asim Mittal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/am-modus/pom-core-eslint/issues"
+  },
+  "dependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  },
+  "homepage": "https://github.com/am-modus/pom-core-eslint#readme"
+}
