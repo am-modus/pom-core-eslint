@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-pom-core-eslint",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ES Lint config for POM microservices",
   "main": "index.js",
   "scripts": {
