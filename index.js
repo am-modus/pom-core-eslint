@@ -9,6 +9,7 @@ module.exports = {
         'no-unused-vars': 0,
         'arrow-body-style': ['error', 'always'],
         'prefer-destructuring': 0,
-        'no-console': ['error', { allow: ['warn', 'error'] }]
+        'no-console': ['error', { allow: ['warn', 'error'] }],
+        'no-plusplus': ["error", { "allowForLoopAfterthoughts": true }]
       },
 };
