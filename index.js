@@ -11,6 +11,7 @@ module.exports = {
         'prefer-destructuring': 0,
         'no-console': 0,
         'no-plusplus': ['error', { 'allowForLoopAfterthoughts': true }],
-        'global-require': 0
+        'global-require': 0,
+        'import/no-dynamic-require': 0
       },
 };
